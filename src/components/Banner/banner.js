@@ -38,7 +38,7 @@ const Banner = () => {
             variants={variants}
             transition={{ ease: "easeOut", duration: 0.8, delay: 1 }}
           >
-            It's time to make your business <span>staret out</span>
+            It's time to make your business <span>starte out</span>
           </motion.h1>
           <motion.p
             initial="hidden"
