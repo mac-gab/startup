@@ -93,7 +93,7 @@ export default () => (
           <ul>
             <li>
               <MdDone />
-              24/7 Support
+              Top Support
             </li>
             <li>
               <MdDone />
